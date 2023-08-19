@@ -1,0 +1,16 @@
+version = 1
+
+[[analyzers]]
+name = "ansible"
+
+[[analyzers]]
+name = "javascript"
+
+  [analyzers.meta]
+  environment = [
+    "browser",
+    "jest"
+  ]
+
+[[transformers]]
+name = "prettier"
