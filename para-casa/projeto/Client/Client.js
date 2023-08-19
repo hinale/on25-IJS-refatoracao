@@ -5,7 +5,7 @@ class Client {
   #cpf;
   #account;
   #income;
-  
+
   // constructor(name, cpf, account, income) {
   //   this.name = name;
   //   this.#cpf = cpf;
